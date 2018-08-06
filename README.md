@@ -1,1 +1,1 @@
-# File-Suffix-Permission-Changer
+Written to automate the changing of files with different naming standards
